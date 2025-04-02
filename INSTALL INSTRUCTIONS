@@ -1,0 +1,20 @@
+Upload file in server under 
+/home/o11
+
+run these commands line by line
+
+sudo apt-get update
+
+cd /home/o11
+
+apt-get install ffmpeg
+apt install python3
+apt install python3-pip
+apt-get install nohup
+pip install pywidevine 
+
+chmod +x launcher
+
+./launcher -p 8000 or which ever port you want to have it under
+
+must have made a payment for licence to cashapp $carolinastreamers
