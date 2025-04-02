@@ -17,4 +17,4 @@ chmod +x launcher
 
 ./launcher -p 8000 or which ever port you want to have it under
 
-must have made a payment for licence to cashapp $carolinastreamers
+must have made a payment for licence to cashapp $carolinastreamers or this install will not recognize your ip and install will not happen
